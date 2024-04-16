@@ -7,7 +7,7 @@
 
 💻 Collaborating in the project Estandares
 
-👨🏽‍💻 template development in Obelisco-demo
+👨🏽‍💻 Template development in Obelisco-demo
 
 📲  How to reach me davisprojectjr@gmail.com
 
