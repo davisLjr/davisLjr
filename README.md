@@ -25,7 +25,8 @@
 ![](https://github-trophies.vercel.app/?username=davisljr&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/KEeyysnlLdJ4afgEhk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meme-stonks-KEeyysnlLdJ4afgEhk">via GIPHY</a></p>
 
 ---
 <iframe src="https://giphy.com/embed/KEeyysnlLdJ4afgEhk" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meme-stonks-KEeyysnlLdJ4afgEhk">via GIPHY</a></p>
