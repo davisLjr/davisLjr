@@ -25,4 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davisljr&" alt="davisljr" /></p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=davisljr)](https://github.com/davisljr/github-readme)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=davisljr&theme=dark)
+
