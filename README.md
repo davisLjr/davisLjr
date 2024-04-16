@@ -26,7 +26,6 @@
 
 ### 😂Random Dev Meme
 
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/KEeyysnlLdJ4afgEhk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meme-stonks-KEeyysnlLdJ4afgEhk">via GIPHY</a></p>
+![Stonks](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFrcG0zaGdndjFyeDg1bHF3dWF3M29rbDg2cmF5Yjdnb2x5NHBneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEeyysnlLdJ4afgEhk/giphy.gif)
 
----
-<iframe src="https://giphy.com/embed/KEeyysnlLdJ4afgEhk" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meme-stonks-KEeyysnlLdJ4afgEhk">via GIPHY</a></p>
+
