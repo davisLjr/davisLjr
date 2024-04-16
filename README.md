@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davisljr&label=Profile%20views&color=0e75b6&style=flat" alt="davisljr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davisljr" alt="davisljr" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?davisljr=madushadhanushka&theme=juicyfresh&no-bg=true" /></p>
 
 - 🔭 I’m currently working on Government of the City of Buenos Aires [Obelisco](https://github.com/gcba/Obelisco)
 
