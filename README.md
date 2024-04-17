@@ -1,5 +1,5 @@
 # 💫About Me :
-🤖 I’m currently working on Government of the City of Buenos Aires Obelisco
+🤖 I´m currently working on Obelisco Project for the Government of the City of Buenos Aires
 
 ⚙️ Collaborating in the Angular project ngx-obelisco
 
